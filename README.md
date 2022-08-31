@@ -1,5 +1,5 @@
 # Simplex algorithm
-A tool that is used to solve _Linear programming_ (LP) problems using the simplex algorithm. It accepts .csv files as inputs, and outputs the optimal solution in TEXT format. It uses the 2-phase approach to solve the problem. In addition, it uses Bland's rule to prevent cycling from happening. 
+A tool that is used to solve _Linear programming_ (LP) problems using the simplex algorithm. It accepts .csv files as inputs, and outputs the optimal solution in TEXT format. It uses the 2-phase approach to solve the problem. In addition, it uses Bland's rule to prevent cycling through the same point from happening. 
 
 ## Get started
        
